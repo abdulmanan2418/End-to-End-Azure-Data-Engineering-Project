@@ -3,7 +3,7 @@
 In this blog, I share a comprehensive guide to designing an end-to-end (E2E) data engineering pipeline using Azure's powerful tools. The project processes, transforms, and delivers data for Business Intelligence (BI) purposes, leveraging resources like Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and Power BI. The data source is the **AdventureWorks dataset**, fetched directly from GitHub. Here’s how the solution is structured:
 
 
-![project](https://github.com/abdulmanan2418/End-to-End-Azure-Data-Engineering-Project/blob/a2dd2bbc1768ad19726adba62e9e532c7821eb8d/images/pipeline_diagram.jpg)
+![project](https://github.com/abdulmanan2418/End-to-End-Azure-Data-Engineering-Project/blob/b751424244c846f13a04d30fc55a5c838a0986da/images/pipeline_diagram.jpg)
 
 
 ---
@@ -20,6 +20,7 @@ To start, the following Azure resources were provisioned:
 - **Azure Synapse Analytics:** Handles data warehousing for BI use.
 
 All resources were configured with proper Identity and Access Management (IAM) roles to ensure seamless integration and security.
+
 ![image](https://github.com/abdulmanan2418/End-to-End-Azure-Data-Engineering-Project/blob/f7cca2c4dd37b3ddbe863f5d10d43259a685480c/images/a.jpg)
 
 
